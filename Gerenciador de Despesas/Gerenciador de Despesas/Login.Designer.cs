@@ -148,7 +148,7 @@
             this.Controls.Add(this.label1);
             this.ForeColor = System.Drawing.SystemColors.Info;
             this.Name = "Login";
-            this.Text = "Login";
+            this.Text = "Gerenciador de Despesas";
             this.ResumeLayout(false);
             this.PerformLayout();
 

@@ -133,7 +133,7 @@
             this.Controls.Add(this.label2);
             this.Controls.Add(this.label1);
             this.Name = "CadastroUsuario";
-            this.Text = "CadastroUsuario";
+            this.Text = "Cadastro de Usuário";
             this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.CloseCadastroUsuario);
             this.Load += new System.EventHandler(this.LoadCadastroUsuario);
             this.ResumeLayout(false);
