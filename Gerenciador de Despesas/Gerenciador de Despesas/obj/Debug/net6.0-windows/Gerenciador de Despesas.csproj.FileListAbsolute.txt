@@ -1,0 +1,17 @@
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\bin\Debug\net6.0-windows\Gerenciador de Despesas.exe
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\bin\Debug\net6.0-windows\Gerenciador de Despesas.deps.json
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\bin\Debug\net6.0-windows\Gerenciador de Despesas.runtimeconfig.json
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\bin\Debug\net6.0-windows\Gerenciador de Despesas.dll
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\bin\Debug\net6.0-windows\Gerenciador de Despesas.pdb
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\Gerenciador de Despesas.csproj.AssemblyReference.cache
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\Gerenciador_de_Despesas.Form1.resources
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\Gerenciador de Despesas.csproj.GenerateResource.cache
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\Gerenciador de Despesas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\Gerenciador de Despesas.AssemblyInfoInputs.cache
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\Gerenciador de Despesas.AssemblyInfo.cs
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\Gerenciador de Despesas.csproj.CoreCompileInputs.cache
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\Gerenciador de Despesas.dll
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\refint\Gerenciador de Despesas.dll
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\Gerenciador de Despesas.pdb
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\Gerenciador de Despesas.genruntimeconfig.cache
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\ref\Gerenciador de Despesas.dll
