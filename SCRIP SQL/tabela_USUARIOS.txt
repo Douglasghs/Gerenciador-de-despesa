@@ -1,0 +1,5 @@
+CREATE TABLE Usuarios(
+             ID int IDENTITY(1,1) PRIMARY KEY NOT NULL,
+             NOME varchar(50) NOT NULL,
+             SENHA varchar(50) NOT NULL
+);

@@ -1,0 +1,8 @@
+CREATE TABLE gereciador_despesas (
+             ID int PRIMARY KEY IDENTITY(1,1) NOT NULL,
+             NOME_PRODUTO varchar(50) NOT NULL,
+             VALOR_PRODUTO varchar(50) NOT NULL,
+             CARTAO varchar(20) NOT NULL,
+             QUANRIDADE_VEZES varchar(50) NOT NULL,
+             PROPRIETARIO_CARTAO varchar(50) NOT NULL
+)
