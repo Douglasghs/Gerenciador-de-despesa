@@ -129,6 +129,7 @@
             this.button_NOVO_USUARIO.TabIndex = 8;
             this.button_NOVO_USUARIO.Text = "NOVO USUÁRIO";
             this.button_NOVO_USUARIO.UseVisualStyleBackColor = false;
+            this.button_NOVO_USUARIO.Click += new System.EventHandler(this.button_NOVO_USUARIO_Click);
             // 
             // Login
             // 

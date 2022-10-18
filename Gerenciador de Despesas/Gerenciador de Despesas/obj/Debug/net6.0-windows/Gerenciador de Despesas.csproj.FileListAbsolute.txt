@@ -33,3 +33,4 @@ C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador-de-despesa\Gerenc
 C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador-de-despesa\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\Gerenciador de Despesas.pdb
 C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador-de-despesa\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\Gerenciador de Despesas.genruntimeconfig.cache
 C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador-de-despesa\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\ref\Gerenciador de Despesas.dll
+C:\Users\Ruann\OneDrive\Área de Trabalho\PROJETOS\Gerenciador-de-despesa\Gerenciador de Despesas\Gerenciador de Despesas\obj\Debug\net6.0-windows\Gerenciador_de_Despesas.CadastroUsuario.resources
