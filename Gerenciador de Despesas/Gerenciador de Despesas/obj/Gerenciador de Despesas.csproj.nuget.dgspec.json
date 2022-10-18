@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ruann\\OneDrive\\Área de Trabalho\\PROJETOS\\Gerenciador de Despesas\\Gerenciador de Despesas\\Gerenciador de Despesas.csproj": {}
+    "C:\\Users\\Ruann\\OneDrive\\Área de Trabalho\\PROJETOS\\Gerenciador-de-despesa\\Gerenciador de Despesas\\Gerenciador de Despesas\\Gerenciador de Despesas.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ruann\\OneDrive\\Área de Trabalho\\PROJETOS\\Gerenciador de Despesas\\Gerenciador de Despesas\\Gerenciador de Despesas.csproj": {
+    "C:\\Users\\Ruann\\OneDrive\\Área de Trabalho\\PROJETOS\\Gerenciador-de-despesa\\Gerenciador de Despesas\\Gerenciador de Despesas\\Gerenciador de Despesas.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ruann\\OneDrive\\Área de Trabalho\\PROJETOS\\Gerenciador de Despesas\\Gerenciador de Despesas\\Gerenciador de Despesas.csproj",
+        "projectUniqueName": "C:\\Users\\Ruann\\OneDrive\\Área de Trabalho\\PROJETOS\\Gerenciador-de-despesa\\Gerenciador de Despesas\\Gerenciador de Despesas\\Gerenciador de Despesas.csproj",
         "projectName": "Gerenciador de Despesas",
-        "projectPath": "C:\\Users\\Ruann\\OneDrive\\Área de Trabalho\\PROJETOS\\Gerenciador de Despesas\\Gerenciador de Despesas\\Gerenciador de Despesas.csproj",
+        "projectPath": "C:\\Users\\Ruann\\OneDrive\\Área de Trabalho\\PROJETOS\\Gerenciador-de-despesa\\Gerenciador de Despesas\\Gerenciador de Despesas\\Gerenciador de Despesas.csproj",
         "packagesPath": "C:\\Users\\Ruann\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ruann\\OneDrive\\Área de Trabalho\\PROJETOS\\Gerenciador de Despesas\\Gerenciador de Despesas\\obj\\",
+        "outputPath": "C:\\Users\\Ruann\\OneDrive\\Área de Trabalho\\PROJETOS\\Gerenciador-de-despesa\\Gerenciador de Despesas\\Gerenciador de Despesas\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Ruann\\AppData\\Roaming\\NuGet\\NuGet.Config",
